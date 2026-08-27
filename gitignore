@@ -1,0 +1,23 @@
+# Data files
+*.parquet
+*.csv
+*.zip
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Google Colab / local paths
+drive/
